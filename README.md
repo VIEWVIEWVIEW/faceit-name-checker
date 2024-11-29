@@ -7,15 +7,6 @@ A simple notebook which checks all 3 alphanumeric + underscore name combos possi
 %pip install brotli requests
 ```
 
-    Requirement already satisfied: brotli in /usr/local/lib/python3.10/dist-packages (1.1.0)
-    Requirement already satisfied: requests in /usr/local/lib/python3.10/dist-packages (2.32.3)
-    Requirement already satisfied: charset-normalizer<4,>=2 in /usr/local/lib/python3.10/dist-packages (from requests) (3.4.0)
-    Requirement already satisfied: idna<4,>=2.5 in /usr/local/lib/python3.10/dist-packages (from requests) (3.10)
-    Requirement already satisfied: urllib3<3,>=1.21.1 in /usr/local/lib/python3.10/dist-packages (from requests) (2.2.3)
-    Requirement already satisfied: certifi>=2017.4.17 in /usr/local/lib/python3.10/dist-packages (from requests) (2024.8.30)
-
-
-
 ```python
 import requests
 import itertools
