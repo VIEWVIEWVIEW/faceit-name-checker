@@ -1,6 +1,6 @@
 # Faceit name checker
 
-A simple notebook which checks all 3 alphanumeric + underscore name combos possible. Run it in google colab and allow drive access. It will write the output to `drive/My Drive/nickname_availability_results.txt`.
+A simple notebook which checks all 3 alphanumeric + underscore name combos possible. Run it in google colab, **change the cookies** to yours, and allow drive access. It will write the output to `drive/My Drive/nickname_availability_results.txt`.
 
 
 ```python
